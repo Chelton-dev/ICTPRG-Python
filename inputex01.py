@@ -1,0 +1,5 @@
+#t1 = int( input("Enter an integer: ") )
+#print(t1)
+t2 = float( input('Enter a decimal number: '))
+print(t2)
+print(9=='9')
